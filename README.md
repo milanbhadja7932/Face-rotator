@@ -6,7 +6,7 @@ Face rotator is generally uses for rotate the thousand of images and also create
 
 # CONTENT
 
-1. GENERATE DATSET <https://github.com/milanbhadja7932/Face-rotator/blob/master/README.md#1-generate-dataset>
+[1. GENERATE DATSET] <https://github.com/milanbhadja7932/Face-rotator/blob/master/README.md#1-generate-dataset>
 2. TRAINING <https://github.com/milanbhadja7932/Face-rotator/blob/master/README.md#2-training>
 3. TESTING <https://github.com/milanbhadja7932/Face-rotator/blob/master/README.md#3-testing>
 4. OUTPUT  <https://github.com/milanbhadja7932/Face-rotator/blob/master/README.md#4-output>
