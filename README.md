@@ -24,3 +24,10 @@ Face rotator is generally uses for rotate the thousand of images and also create
 ### 4. OUTPUT
       There is a zip file generated which contain output images and a csv file for predict the rotation.
       
+      
+      
+      
+## HOW CAN WE IMMPROE.
+ 
+ We can improve accuracy with some other models also such as [image orientation](https://d4nst.github.io/2017/01/12/image-orientation/) and we have to use GPU for better performane so we can reduce FPS and accuracy of algorithm. There are also various steps are available for improvement in models.
+      
